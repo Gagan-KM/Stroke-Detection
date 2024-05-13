@@ -16,7 +16,7 @@ The dataset used for this project contains a comprehensive set of features inclu
 4. **Model Evaluation**: The performance of the logistic regression model was evaluated using various metrics including accuracy, precision, recall, and F1-score. Additionally, ROC curve analysis and AUC-ROC scores were used to assess the model's predictive capability.
 
 ## Results
-The trained logistic regression model demonstrated promising results in stroke detection, achieving high accuracy and robust performance across different evaluation metrics. The ROC curve analysis indicated a strong ability of the model to distinguish between positive and negative cases with a high AUC-ROC score.
+The trained logistic regression model demonstrated promising results in stroke detection, achieving high accuracy and robust performance across different evaluation metrics. 
 
 ## Conclusion
 In conclusion, this project successfully developed a stroke detection model using logistic regression, showcasing the potential of machine learning techniques in healthcare applications. The model's ability to accurately predict stroke risk based on patient information can aid healthcare professionals in early intervention and preventive care strategies. Further refinement and validation of the model on larger datasets can enhance its reliability and applicability in real-world scenarios.
